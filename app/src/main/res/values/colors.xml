@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--próba zmieny koloru aplikacji w runtimie-->
+    <color name="bt_active_start">#FF9F00</color>
+    <color name="bt_active_end">#FF8200</color>
+
+    <color name="Gold">#FFD700</color>
+
+    <color name="Goldenrod">#DAA520</color>
+</resources>
